@@ -19,7 +19,7 @@ const siteData = {
             title: "Free Consultation",
             description: "Book a 30-minute consultation—absolutely free—for startups and early-stage entrepreneurs.",
             icon: "💼",
-            url: "#Booking", // Replace with actual booking link
+            url: "https://calendly.com/kdh-innovations/30min",
             badge: "Free"
         },
         {
@@ -33,21 +33,21 @@ const siteData = {
             title: "YouTube Channel",
             description: "Subscribe for exclusive business insights, tools, and tutorials from industry experts.",
             icon: "🎥",
-            url: "#consulting", // Replace with actual YouTube link
+            url: "https://youtube.com/@kdh_innovations",
             badge: "Socials"
         },
         {
             title: "LinkedIn Profile",
             description: "Connect with us on LinkedIn for business updates and professional networking.",
             icon: "🔗",
-            url: "#marketing", // Replace with actual LinkedIn URL
+            url: "https://linkedin.com/company/kdh_innovations", 
             badge: "Socials"
         },
         {
             title: "Instagram",
             description: "Discover our latest innovations and updates through stunning visuals on Instagram.",
             icon: "📸",
-            url: "https://instagram.com/kdh-innovations",
+            url: "https://instagram.com/kdh_innovations",
             badge: "Socials"
         },
         {
@@ -61,7 +61,7 @@ const siteData = {
             title: "Facebook Page",
             description: "Like and follow our official Facebook page for news, updates, and community stories.",
             icon: "📘",
-            url: "https://facebook.com/kdhinnovations",
+            url: "https://facebook.com/kdh_innovations",
             badge: "Socials"
         },
         {
@@ -75,24 +75,24 @@ const siteData = {
 
     socialLinks: [
         {
-            platform: "LinkedIn",
+            platform: "Website",
             icon: "avatar.png",
-            url: "https://linkedin.com/company/nexushub"
+            url: "https://kdh-innovation.netlify.app/"
         },
         {
-            platform: "Twitter",
+            platform: "X (Twitter)",
             icon: "🐦",
-            url: "https://twitter.com/nexushub"
+            url: "https://x.com/KDH_INNOVATIONS"
         },
         {
             platform: "Instagram",
             icon: "📸",
-            url: "https://instagram.com/nexushub"
+            url: "https://instagram.com/kdh_innovations"
         },
         {
-            platform: "GitHub",
+            platform: "LinkedIn",
             icon: "💻",
-            url: "https://github.com/nexushub"
+            url: "https://linkedin.com/company/kdh_innovations"
         }
     ]
 };
