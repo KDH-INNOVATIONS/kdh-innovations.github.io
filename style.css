@@ -306,6 +306,14 @@
             display: block;
         }
 
+        .link-icon img {
+            width: 40px;
+            height: 40px;
+            border-radius: 10%;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+
         .link-title {
             font-size: 1.2rem;
             font-weight: 600;
@@ -350,7 +358,7 @@
             height: 60px;
             background: var(--glass);
             border: 1px solid var(--border);
-            border-radius: 50%;
+            border-radius: 10%;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -370,6 +378,13 @@
             box-shadow: 
                 12px 12px 24px var(--shadow),
                 -12px -12px 24px rgba(255, 255, 255, 0.1);
+        }
+
+        .social-link img {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            object-fit: cover;
         }
 
         /* Footer */
