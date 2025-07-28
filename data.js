@@ -12,7 +12,7 @@ const siteData = {
             title: "KDH App (Android)",
             description: "Download our Android app for exclusive access to premium products and services.",
             icon: "📱",
-            url: "https://kdh-landing-page.netlify.app/src/assets/apk/KDH.apk",
+            url: "https://dl.dropboxusercontent.com/scl/fi/fgbpvrtwl9hlpoe678if7/KDH_Beta.apk?rlkey=7eay87h0ekbw49lp8g3ngurri&st=kxf3524b&dl=0",
             badge: "PreLaunch"
         },
         {
